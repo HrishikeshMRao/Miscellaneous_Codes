@@ -1,0 +1,3 @@
+import socket # for socket
+from telnetlib import IP
+service nfs start
